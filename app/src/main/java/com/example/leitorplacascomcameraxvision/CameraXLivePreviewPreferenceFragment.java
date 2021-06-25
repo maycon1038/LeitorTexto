@@ -35,7 +35,7 @@ import androidx.camera.core.CameraSelector;
 import java.util.Arrays;
 import java.util.List;
 
-/** Configures CameraX live preview demo settings. */
+/** Configura as configurações de demonstração de visualização ao vivo do CameraX. */
 @RequiresApi(VERSION_CODES.LOLLIPOP)
 public class CameraXLivePreviewPreferenceFragment extends LivePreviewPreferenceFragment {
 

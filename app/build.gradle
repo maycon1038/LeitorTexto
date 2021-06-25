@@ -84,6 +84,14 @@ dependencies {
     implementation "androidx.camera:camera-camera2:1.1.0-alpha05"
     implementation "androidx.camera:camera-lifecycle:1.1.0-alpha05"
     implementation "androidx.camera:camera-view:1.0.0-SNAPSHOT"
+
+
+	//noinspection AnnotationProcessorOnCompilePath
+	implementation 'org.projectlombok:lombok:1.18.18'
+	//  implementation 'androidx.legacy:legacy-support-v4:1.0.0'
+	annotationProcessor 'org.projectlombok:lombok:1.18.18'
+
+	implementation 'com.github.maycon1038:LibraryThemes:2.0.4'
 }
 
 configurations {

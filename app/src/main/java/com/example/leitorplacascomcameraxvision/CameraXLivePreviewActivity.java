@@ -59,7 +59,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Live preview demo app for ML Kit APIs using CameraX.
+ * Aplicativo de demonstração de visualização ao vivo para APIs de kit de ML usando CameraX.
  */
 @KeepName
 @RequiresApi(VERSION_CODES.LOLLIPOP)
